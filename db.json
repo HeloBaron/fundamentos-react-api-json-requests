@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Gus"
+      "id": "gus",
+      "name": "Gustavo"
     },
     {
-      "id": 2,
-      "name": "Hele"
+      "id": "helo",
+      "name": "Heloisa"
     }
   ]
 }
